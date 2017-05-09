@@ -1,6 +1,6 @@
 \usepackage{xeCJK}
 ---
-title: "在R Markdown文档中使用中文"
+title: "在R Markdown文档中使用中文ne "
 author:
   - 李思达
 documentclass: ctexart
