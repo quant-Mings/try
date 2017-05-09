@@ -1,0 +1,18 @@
+\usepackage{xeCJK}
+---
+title: "在R Markdown文档中使用中文"
+author:
+  - 李思达
+documentclass: ctexart
+output:
+  rticles::ctex:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+classoption: "hyperref,"
+---
+
+# 引言
+
+这是一份测试RMD的文件。
+
